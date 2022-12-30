@@ -13,6 +13,9 @@
   <summary>
     Additional Tools
   </summary>
+  Passport.js
+  Socket.io
+  Stripe.
 </details> -->
   
 
