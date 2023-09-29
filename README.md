@@ -1,6 +1,6 @@
 
 
-## 🔧 Current Technologies & Tools
+## 🔧 Technologies & Tools
 <details open>
   <summary><strong>Languages</strong></summary>
   <p></p>
