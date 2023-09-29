@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </div>
-  <hr>
 </details>
 <details open>
   <summary><strong>Frameworks</strong></summary>
@@ -18,16 +17,14 @@
     <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="Sveltekit" />
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </div>
-  <hr>
 </details>
 <details open>
-  <summary><strong>Server</strong></summary>
+  <summary><strong>Server side</strong></summary>
   <p></p>
   <div>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   </div>
-  <hr>
 </details>
 <details open>
   <summary><strong>Databases</strong></summary>
@@ -36,7 +33,6 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </div>
-  <hr>
 </details>
 <details>
   <summary><strong>Future Technologies / Tools</strong></summary>
