@@ -1,42 +1,39 @@
+<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/>
 
-
-## 🔧 Technologies & Tools
-<details open>
-  <summary><strong>Languages</strong></summary>
-  <p></p>
+<details>
+  <summary><strong>🔧 Technologies & Tools</strong></summary>
+  <br />
+  <div style="margin-left:20px">
+  <strong>Languages</strong>
   <div>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </div>
-</details>
-<details open>
-  <summary><strong>Frameworks</strong></summary>
-  <p></p>
+    <br />
+  <strong>Frameworks</strong>
   <div>
     <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="Sveltekit" />
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </div>
-</details>
-<details open>
-  <summary><strong>Server side</strong></summary>
-  <p></p>
+<br />
+  <strong>Server side</strong>
   <div>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   </div>
-</details>
-<details open>
-  <summary><strong>Databases</strong></summary>
-  <p></p>
+<br />
+
+  <strong>Databases</strong>
   <div>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </div>
-</details>
-<details>
-  <summary><strong>Future Technologies / Tools</strong></summary>
-  <p></p>
+  <br />
+
+  <strong>Future Technologies / Tools</strong>
   <div>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" />
@@ -44,6 +41,7 @@
     <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt=".NET" />
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Blazor" />
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </div>
   </div>
 </details>
 <!--
