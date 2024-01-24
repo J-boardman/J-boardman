@@ -5,7 +5,7 @@
 <details>
   <summary><strong>🔧 Technologies & Tools</strong></summary>
   <br />
-  <div style="margin-left:20px">
+  <div style="margin-left:1rem">
   <strong>Languages</strong>
   <div>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -32,6 +32,34 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </div>
   <br />
+</details>
+<details>
+  <summary>📚 Future Learning / Projects</summary>
+  <br />
+  <div style="margin-left:1rem">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GoLang" />
+    <ul>
+      <li>
+        <a href="https://quii.gitbook.io/learn-go-with-tests/">Learn Go with Tests</a>
+      </li>
+      <li>
+        <a href="https://interpreterbook.com/">Writing an Interpreter in Go</a>
+      </li>
+      <li>
+        <a href="https://compilerbook.com/">Writing a Compiler in Go</a>
+      </li>
+    </ul>
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/>
+    <ul>
+      <li>
+        <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails">Full Stack Ruby on Rails</a>
+      </li>
+    </ul>
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
+  </div>
+</details>
 <!--
   <strong>Future Technologies / Tools</strong>
   <div>
@@ -43,7 +71,7 @@
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   </div>
   </div>
-</details>
+
 <!--
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/j-boardman/github-readme-stats)
 -->
