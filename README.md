@@ -3,41 +3,38 @@
 <br/>
 
 <details>
-  <summary><strong>🔧 Technologies & Tools</strong></summary>
+  <summary><strong>🔧 Favorite technologies & tools</strong></summary>
   <br />
   <div style="margin-left:1rem">
   <strong>Languages</strong>
   <div>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GoLang" />
   </div>
-    <br />
+  <br />
   <strong>Frameworks</strong>
   <div>
     <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="Sveltekit" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </div>
-<br />
-  <strong>Server side</strong>
+  <br />
+  <strong>Frontend</strong>  
   <div>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+    <img alt="HTMX" src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white" />
+    <img alt="Alpine.js" src="https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
-<br />
-
-  <strong>Databases</strong>
+    <br />
+  <strong>Backend</strong>
   <div>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GoLang" />
   </div>
   <br />
 </details>
 <details>
-  <summary>📚 Future Learning / Projects</summary>
+  <summary><strong>📚 Future Learning / Projects</strong></summary>
   <br />
   <div style="margin-left:1rem">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GoLang" />
     <ul>
       <li>
         <a href="https://quii.gitbook.io/learn-go-with-tests/">Learn Go with Tests</a>
@@ -49,15 +46,6 @@
         <a href="https://compilerbook.com/">Writing a Compiler in Go</a>
       </li>
     </ul>
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
-    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/>
-    <ul>
-      <li>
-        <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails">Full Stack Ruby on Rails</a>
-      </li>
-    </ul>
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
   </div>
 </details>
 <!--
